@@ -1,0 +1,43 @@
+# Security Policy
+
+## Supported Versions
+
+We currently provide security attention to the most recent public release of JewelsStore Chat Widget and to actively maintained development work.
+
+| Version | Supported |
+| ------- | --------- |
+| Latest public release | Yes |
+| Older releases | No |
+
+## Reporting a Vulnerability
+
+If you discover a security issue related to JewelsStore Chat Widget, please do not publish it publicly before contacting us.
+
+Please report security concerns privately through:
+
+- Website: https://jewelsstore.shop
+- Premium solutions: https://jewelsstore.shop/plugins
+- English premium page: https://jewelsstore.shop/en/plugins
+
+When reporting a vulnerability, please include:
+
+- a clear description of the issue
+- affected plugin version
+- steps to reproduce
+- screenshots or logs if relevant
+- whether the issue affects the free version, premium version, or related licensing components
+
+## Security Principles
+
+JewelsStore Chat Widget is developed with attention to:
+
+- controlled premium licensing workflows
+- signed server response verification
+- role-aware access to sensitive internal context
+- summary-only internal context exposure where configured
+- masking of sensitive information where applicable
+- controlled connector and assistant access rules
+
+## Responsible Disclosure
+
+We ask researchers and users to practice responsible disclosure and allow time for review and remediation before public disclosure.
